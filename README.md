@@ -9,4 +9,4 @@
 
 
 ## Dashboard 1 
- <img align="right" alt="coding" width="400" src="https://github.com/Abdul-Jaweed/Covid-19-Power-Bi-Dashboard/blob/main/Dashboard-1.PNG">
+ <img align="middle" alt="coding" width="1000" src="https://github.com/Abdul-Jaweed/Covid-19-Power-Bi-Dashboard/blob/main/Dashboard-1.PNG">
